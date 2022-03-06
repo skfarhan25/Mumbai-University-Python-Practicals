@@ -1,0 +1,20 @@
+A paragraph is a self-contained unit of discourse in writing dealing with a particular point or idea.
+A paragraph consists of one or more sentences.
+Though not required by the syntax of any language, paragraphs are usually an expected part of formal writing, used to organize longer prose.
+The oldest classical Greek and Latin writing had little or no space between words and could be written in boustrophedon (alternating directions).
+Over time, text direction (left to right) became standardized, and word dividers and terminal punctuation became common.
+The first way to divide sentences into groups was the original paragraphs, similar to an underscore at the beginning of the new group.
+The Greek parágraphos evolved into the pilcrow, which in English manuscripts in the Middle Ages can be seen inserted inline between sentences.
+The hedera leaf has also been used in the same way.
+In ancient manuscripts, another mean to divide sentences into paragraphs was a line break (newline) 
+followed by an initial at the beginning of the next paragraph.
+An initial is an oversized capital letter, sometimes outdented beyond the margin of the text.
+This style can be seen, for example, in the original Old English manuscript of Beowulf.
+Outdenting is still used in English typography, though not commonly.
+Modern English typography usually indicates a new paragraph by indenting the first line.
+This style can be seen in the (handwritten) United States Constitution from 1787.
+For additional ornamentation, a hedera leaf or other symbol can be added to the inter-paragraph white space, or put in the indentation space.
+In word processing and desktop publishing, a hard return or paragraph break indicates a new paragraph.
+To be distinguished from the soft return at the end of a line internal to a paragraph.
+This distinction allows word wrap to automatically re-flow text as it is edited, without losing paragraph breaks.
+The software may apply vertical white space or indenting at paragraph breaks, depending on the selected style.

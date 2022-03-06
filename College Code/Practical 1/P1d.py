@@ -1,0 +1,1 @@
+print("Reverse of the input is", UserInput := input("Enter Something: ")[::-1])
