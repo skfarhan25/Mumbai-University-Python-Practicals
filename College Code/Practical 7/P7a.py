@@ -7,7 +7,7 @@ class Student:
     def ShowData(self):
         print(f"Student Name: {self.name}\nAge: {self.age}\nRoll No.: {self.rollno}")
 
-stud_1 = Student("Joe Nuts", 18, 124)
+stud_1 = Student("Jack Back", 18, 124)
 stud_2 = Student("John Doe", 19, 110)
 stud_1.ShowData()
 stud_2.ShowData()
